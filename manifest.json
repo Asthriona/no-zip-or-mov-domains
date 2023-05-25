@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "ZipMove Detector",
+    "version": "1.0",
+  
+    "description": "Detects and highlights .zip and .move links on a web page.",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://*/*", "http://*/*"],
+        "js": ["zipmov-detector.js"],
+        "run_at": "document_end"
+      }
+    ]
+  }
