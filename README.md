@@ -1,6 +1,6 @@
 # No Zip or Mov Domains!
 
-No Zip or Mov Domains! is a Chrome extension that detects and highlights links to .zip and .move files on the current domain.
+No Zip or Mov Domains! is a Chrome extension that detects and highlights links to .zip and .move domains names.
 
 ## Installation
 
@@ -21,10 +21,6 @@ You can try it on my website [here](https://www.asthriona.com/blog/no-zip-and-mo
 ## Contributing
 
 If you find a bug or want to contribute to the extension, please feel free to open an issue or submit a pull request.
-
-## Acknowledgements
-
-This project was inspired by the need to quickly find links to .zip and .move files on a domain.
 
 ## License
 
